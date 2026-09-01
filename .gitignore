@@ -1,0 +1,8 @@
+# Contenu en clair — ne doit jamais être versionné :
+# c'est exactement ce que le chiffrement d'index.html protège.
+template.html
+questionnaire_spec_v2.json
+NOTES.md
+build.py
+logo-delville-full.png
+decode.py
